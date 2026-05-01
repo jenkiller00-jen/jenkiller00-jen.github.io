@@ -1,1 +1,5 @@
-diz is da sqiggleeee web lol rowza :3
+<html>
+<title>SQGLY</title>
+Under SQGLY-struction.
+  
+</html>
